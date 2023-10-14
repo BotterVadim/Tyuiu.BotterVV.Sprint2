@@ -20,7 +20,7 @@ namespace Tyuiu.BotterVV.Sprint2.Task0.V28
             Console.Title = "Спринт #2 | Выполнил: Боттер В.В. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Операции сравнения                                                *");
+            Console.WriteLine("* Тема: Операции сравнения.                                               *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
             Console.WriteLine("* Выполнил: Боттер Вадим Валерьевич | ПКТб-23-2                           *");
